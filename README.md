@@ -1,2 +1,4 @@
 # PrepCurse-Henrry
-Modulo 2 prueba..
+Alejandro Agustin Diaz GARRO    
+
+Estamos creando un ejemplo para modulo 2 en git hub.
